@@ -1,0 +1,16 @@
+{
+  "name": "dropbox-fwd",
+  "version": "0.0.0",
+  "description": "Forward to dropbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coverslide/node-dropbox-fwd.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "gitHead": "6da77e43d82f34d0a20b53ba0ad85a5feda09489"
+}
